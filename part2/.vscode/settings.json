@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "list": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "stack": "cpp",
+        "deque": "cpp"
     }
 }
