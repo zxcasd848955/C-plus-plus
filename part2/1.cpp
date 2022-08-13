@@ -7,10 +7,7 @@ int main(){
 
     string word;
 
-    vector<string> text;
-    while ( cin >> word ){
-        text.push_back(word);
-    }
+    cout << "test g++" << endl;
 
 
     #ifdef DEBUG

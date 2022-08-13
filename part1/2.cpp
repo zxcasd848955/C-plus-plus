@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
 {
     // cout << "hello world" <<endl;
     // cout << "short: \t\t" << sizeof(short) <<endl;
-    // cout << "short" << (numeric_limits<short>::max)() <<endl;
+    cout << "short" << (numeric_limits<short>::max)() <<endl;
     short int i;
     short unsigned int j;
     j = 50000;
